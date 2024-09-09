@@ -1,12 +1,12 @@
 <a name="top"></a>
 
 <div align="center">
+  <img width="400" src= "./hologram.gif">
+  <br><br>
   <img src="https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Anaconda-000?logo=anaconda&logoColor=44A833&style=for-the-badge" alt="Anaconda Badge"/>
   <img src="https://img.shields.io/badge/OpenCV-000?logo=opencv&logoColor=fff&style=for-the-badge" alt="OpenCV Badge"/>
   <img src="https://img.shields.io/badge/Unity-000?logo=unity&logoColor=fff&style=for-the-badge" alt="Unity Badge"/>
-  <br><br>
-  <img width="400" src= "./hologram.gif">
 </div>
 
 ### New Info Hoarding and Delivery:
